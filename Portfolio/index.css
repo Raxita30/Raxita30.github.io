@@ -1,0 +1,70 @@
+.Name {
+    background-color: rgb(114, 185, 220);
+    padding: 5px;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+
+.objective{
+    margin: 5px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+.about {
+    margin: 5px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.educ{
+    background-color: rgb(114, 185, 220);
+    margin: 10px;
+    margin-top:70px;
+    padding: 5px;
+    text-align: center;
+}
+
+.education{
+    background-color: rgb(194, 214, 226);
+}
+
+.skills{
+    background-color: rgb(114, 185, 220);
+    margin: 10px;
+    margin-top:50px;
+    padding: 5px;
+    text-align: center;
+}
+
+.bar{
+
+    background: #e3a324;
+    margin:10px;
+    margin-left: 20%;
+    padding: 4px;
+    padding-left: 20px;
+}
+.certificate{
+    background-color: rgb(114, 185, 220);
+    margin: 10px;
+    margin-top:70px;
+    padding: 5px;
+    padding-left: px;
+    text-align: center;
+}
+.container-fluid{
+    text-align: left;
+}
+
+.project{
+    background-color: rgb(114, 185, 220);
+    margin: 10px;
+    margin-top:70px;
+    padding: 5px;
+    padding-left: px;
+    text-align: center;
+
+}
